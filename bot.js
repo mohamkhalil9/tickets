@@ -8,8 +8,8 @@ function clean(text) {
         return text;
 }
 
-const prefix = "Your Prefix";
-const token = "Token Your Bot";
+const prefix = "!";
+const token = "NTU0MzY2NjE2MjM5MDc5NDY0.XMmRaA.i7ToHCOWKFmOeiqcHrDE5cfdlRw";
 
 client.on("ready", () => {
   console.log("ExPlosive | Logged in! Server count: ${client.guilds.size}");
